@@ -193,7 +193,7 @@ static int module_init(void)
 	err = conf_get_str(restund_conf(), "zrest_secret", zrest.secret,
 			   sizeof(zrest.secret));
 	if (err) {
-		restund_error("zrest: missing config 'rest_secret'\n");
+		restund_error("zrest: missing config 'zrest_secret'\n");
 		return err;
 	}
 
