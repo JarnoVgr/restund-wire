@@ -1,5 +1,5 @@
 # restund
-Restund is a modular and flexible open-source implementation of the STUN and TURN protocols with both IPv4 and IPv6 support. Which, for example, allows WebRTC video and audio stream relaying.
+restund is a modular and flexible open-source implementation of the STUN and TURN protocols with both IPv4 and IPv6 support. Which, for example, allows WebRTC video and audio stream relaying.
 
 See [docs](docs) for more information.
 
