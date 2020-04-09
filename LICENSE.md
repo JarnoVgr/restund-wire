@@ -2,7 +2,8 @@
 
 ## restund
 Based on [Wire's restund](https://github.com/wireapp/restund), which in itself is a fork of [Creytiv Software's restund](http://www.creytiv.com/restund.html).
-```Copyright (c) 2010 - 2014, Alfred E. Heggestad
+```
+Copyright (c) 2010 - 2014, Alfred E. Heggestad
 Copyright (c) 2010 - 2014, Richard Aas
 Copyright (c) 2010 - 2014, Creytiv.com
 All rights reserved.
@@ -38,7 +39,8 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Modules `zrest` and `drain`
 Based on [Wire's additional modules](https://github.com/wireapp/wire-server/tree/develop/services/restund).
-```                    GNU AFFERO GENERAL PUBLIC LICENSE
+```
+                    GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
