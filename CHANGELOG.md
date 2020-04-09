@@ -1,4 +1,6 @@
-2015-10-03 Alfred E. Heggestad <aeh@db.org>
+# Changelog
+
+## 2015-10-03 Alfred E. Heggestad <aeh@db.org>
 
 	* Version 0.4.12
 
@@ -9,7 +11,7 @@
 		- thanks to Philipp Hancke for reporting the issue
 
 
-2014-12-09 Alfred E. Heggestad <aeh@db.org>
+## 2014-12-09 Alfred E. Heggestad <aeh@db.org>
 
 	* Version 0.4.11
 
@@ -30,7 +32,7 @@
 	* tcp: improved cleanup of idle TCP-connections
 
 
-2012-09-09 Alfred E. Heggestad <aeh@db.org>
+## 2012-09-09 Alfred E. Heggestad <aeh@db.org>
 
 	* Version 0.4.2
 
@@ -44,14 +46,14 @@
 	        send queue by limiting max queue size for relay data
 
 
-2012-04-21 Alfred E. Heggestad <aeh@db.org>
+## 2012-04-21 Alfred E. Heggestad <aeh@db.org>
 
 	* Version 0.4.1
 
 	* auth: improved nonce handling
 
 
-2011-12-25 Alfred E. Heggestad <aeh@db.org>
+## 2011-12-25 Alfred E. Heggestad <aeh@db.org>
 
 	* Version 0.4.0
 
@@ -60,7 +62,7 @@
 	* tcp: add TCP length checks
 
 
-2011-09-07 Alfred E. Heggestad <aeh@db.org>
+## 2011-09-07 Alfred E. Heggestad <aeh@db.org>
 
 	* Version 0.3.0
 
