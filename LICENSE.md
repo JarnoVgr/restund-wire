@@ -2,7 +2,8 @@
 
 ## restund
 Based on [Wire's restund](https://github.com/wireapp/restund), which in itself is a fork of [Creytiv Software's restund](http://www.creytiv.com/restund.html).
-```Copyright (c) 2010 - 2014, Alfred E. Heggestad
+```
+Copyright (c) 2010 - 2014, Alfred E. Heggestad
 Copyright (c) 2010 - 2014, Richard Aas
 Copyright (c) 2010 - 2014, Creytiv.com
 All rights reserved.
@@ -33,11 +34,13 @@ NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
 DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
-THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.```
+THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
 
 ## Modules `zrest` and `drain`
 Based on [Wire's additional modules](https://github.com/wireapp/wire-server/tree/develop/services/restund).
-```                    GNU AFFERO GENERAL PUBLIC LICENSE
+```
+                    GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
@@ -697,4 +700,5 @@ specific requirements.
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
-<http://www.gnu.org/licenses/>.```
+<http://www.gnu.org/licenses/>.
+```
